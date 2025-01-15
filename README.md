@@ -25,4 +25,5 @@ npm install @mui/material
 npm install @mui/material @emotion/react @emotion/styled
 
 after running these, navigate to the dir using cd react-calendar-graph
+
 then, npm start
