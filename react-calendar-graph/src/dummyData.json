@@ -1,0 +1,58 @@
+{
+    "01-01-2025": [
+      { "user": "Michael", "value": 1 },
+      { "user": "Jim", "value": 5 },
+      { "user": "Dwight", "value": 2 },
+      { "user": "Pam", "value": 3 },
+      { "user": "Creed", "value": 4 }
+    ],
+    "03-01-2025": [
+      { "user": "Michael", "value": 2 },
+      { "user": "Jim", "value": 4 },
+      { "user": "Dwight", "value": 1 },
+      { "user": "Pam", "value": 5 },
+      { "user": "Creed", "value": 3 }
+    ],
+    "07-01-2025": [
+      { "user": "Michael", "value": 1 },
+      { "user": "Jim", "value": 3 },
+      { "user": "Dwight", "value": 5 },
+      { "user": "Pam", "value": 4 },
+      { "user": "Creed", "value": 2 }
+    ],
+    "15-01-2025": [
+      { "user": "Michael", "value": 5 },
+      { "user": "Jim", "value": 3 },
+      { "user": "Dwight", "value": 2 },
+      { "user": "Pam", "value": 1 },
+      { "user": "Creed", "value": 4 }
+    ],
+    "30-01-2025": [
+      { "user": "Michael", "value": 5 },
+      { "user": "Jim", "value": 1 },
+      { "user": "Dwight", "value": 3 },
+      { "user": "Pam", "value": 2 },
+      { "user": "Creed", "value": 4 }
+    ],
+    "17-12-2024": [
+      { "user": "Michael", "value": 2 },
+      { "user": "Jim", "value": 3 },
+      { "user": "Dwight", "value": 5 },
+      { "user": "Pam", "value": 4 },
+      { "user": "Creed", "value": 1 }
+    ],
+    "21-11-2024": [
+      { "user": "Michael", "value": 4 },
+      { "user": "Jim", "value": 1 },
+      { "user": "Dwight", "value": 5 },
+      { "user": "Pam", "value": 2 },
+      { "user": "Creed", "value": 3 }
+    ],
+    "19-02-2025": [
+      { "user": "Michael", "value": 3 },
+      { "user": "Jim", "value": 4 },
+      { "user": "Dwight", "value": 5 },
+      { "user": "Pam", "value": 1 },
+      { "user": "Creed", "value": 2 }
+    ]
+}
