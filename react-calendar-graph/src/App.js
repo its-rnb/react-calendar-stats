@@ -34,6 +34,19 @@ function App() {
     }
   };
 
+  const handleSelectEvent = (event) => {
+    const formattedDate = moment(event.start).format("DD-MM-YYYY");
+    const dataForDate = dummyData[formattedDate];
+
+    if (dataForDate) {
+      setBarData(dataForDate);
+      setSelectedDate(formattedDate);
+      setOpenDialog(true);
+    } else {
+      alert("No data found for the selected date.");
+    }
+  };
+
   const handleNavigate = (newDate) => {
     setCurrentDate(newDate);
   };
@@ -54,6 +67,7 @@ function App() {
         style={{ height: 500 }}
         selectable
         onSelectSlot={handleSelectSlot}
+        onSelectEvent={handleSelectEvent}
         views={[Views.MONTH, Views.WEEK, Views.DAY]}
         defaultView={Views.MONTH}
         view={view}
