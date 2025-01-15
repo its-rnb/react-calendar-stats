@@ -4,6 +4,7 @@ React based calendar with date-specific bar graph containing data
 Following commands were used to install dependancies:
 
 //ajv-keywords package
+
 npm install ajv@latest ajv-keywords@latest
 
 //React Big Calendar
